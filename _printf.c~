@@ -1,6 +1,0 @@
-#include "main.h"
-
-/**
- * _printf - printf
- * format: const char pointer
- * Return: 
