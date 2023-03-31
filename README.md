@@ -1,5 +1,4 @@
 0x11. C - printf Group project
-Team : @adilnasser and @ItsKjaja
 
 ------------------------------
 
